@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">suitmedia</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="reload">Reload</string>
+    <string name="is_palindrome">Is Palindrome !</string>
+    <string name="isnt_palindrome">Isnt Palindrome !\n</string>
+    <string name="empty_data">Data is Empty !</string>
+    <string name="error">Error, please pull for refresh !</string>
+</resources>
